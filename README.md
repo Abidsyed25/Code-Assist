@@ -16,7 +16,7 @@ create a .env file and add your openai-api-key
 use below command to run it locally : 
 
 ```bash
-node index.js
+npm start
 ```
 
 ### step-4 : Setup Frontend 
