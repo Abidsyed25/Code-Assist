@@ -25,7 +25,7 @@ option-1 : Use already deployed frontend - [code-assist-ai.netlify.app](https://
 
 option-2 : Move to Frontend folder
 
-run below command to run it locally
+run below commands to run it locally
 
 
 ```bash
