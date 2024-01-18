@@ -27,6 +27,11 @@ option-2 : Move to Frontend folder
 
 run below command to run it locally
 
+
+```bash
+npm install
+```
+
 ```bash
 npm start
 ```
