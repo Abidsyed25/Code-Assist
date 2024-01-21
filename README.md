@@ -1,3 +1,14 @@
+# Code Assist AI
+Welcome to CodeAssist, your AI companion for writing production-level code. It is powered by OpenAI technology and has two tools: 
+1. Code Refactor - can be used to refactor messy codes into bug-free and optimized codes
+2. Code Review - explains code in layman terms for code review
+
+# Demo
+
+https://github.com/Abidsyed25/Code-Assist/assets/116893970/6e6412cf-4955-43a2-8f2f-8782bf9991f5
+
+
+
 # Frontend Deployed here - [Code-Assist-Ai](https://code-assist-ai.netlify.app/)
 
 # Steps to setup project locally
